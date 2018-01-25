@@ -1,0 +1,71 @@
+.fighter1pic{
+	background-image:url("../images/oliver.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:150px;
+    width:100px;
+}
+.header1{
+	color:white;
+    font-size:60px;
+    text-align:center;
+
+}
+.header2 {
+    color:white;
+    font-size:50px;
+    text-align:left;
+}
+
+.players{
+    color:white;
+    font-size:35px;
+    text-align:left;
+}
+.playerText{
+color:white;
+font-size:20px;
+font-weight:900px;
+text-shadow:2px 2px #FF0000;
+}
+
+.attack {
+ 
+    font-size: 40px !important;
+
+}
+
+
+
+
+.fighter2pic{
+	background-image:url("../images/benji.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:150px;
+    width:100px;
+}
+.fighter3pic{
+	background-image:url("../images/coach.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:150px;
+    width:100px;
+}
+.fighter4pic{
+	background-image:url("../images/bruce.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:150px;
+    width:100px;
+}
+
+.backgroundPic {
+    background-image:url("../images/backgroundPic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
